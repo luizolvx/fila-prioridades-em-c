@@ -44,6 +44,7 @@ Listando todos os pacientes que aguardam atendimento:
 
 - Nome do paciente: Joao Martins -> prioridade de atendimento: 5
 - Nome do paciente: Jose da Silva -> prioridade de atendimento: 4
+  
 ...
 
 Atendendo os pacientes:
